@@ -5,6 +5,7 @@ import cv2
 import sklearn
 from PIL import Image
 import time
+import face_recognition
 
 # Configure page
 st.set_page_config(
